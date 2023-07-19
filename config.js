@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Đêm muộn anni 2 months",
+    titleWeb: "Đêm muộn nhớ em",
     introTitle: 'Thảo nùn đáng yêu',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Chúc bạn ngủ ngon mơ đẹp nha ^^ <3. Yêu Châu Thanh Thảo của anh <3',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.facebook.com/messages/t/100012059079606' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
